@@ -1,0 +1,25 @@
+
+
+done
+mv temp file
+head -n $l file > temp
+l=`expr $l - 1`
+tail -n 1 file >> $revfname
+do
+while [ $l -ge 1 ]
+rm $revfname 
+revfname="$1.rev"
+l=`cat file | wc -l`
+cp $1 file
+fi
+   exit 2
+  echo "$1 is a directory"
+then
+if [ -d $1 ]
+fi
+exit 1
+  echo "Syntax is <$0> <file name>" 
+then
+if [ $# -ne 1 ]
+#set -vx 
+# to reverse the file

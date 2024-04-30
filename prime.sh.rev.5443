@@ -1,0 +1,50 @@
+     
+
+ 
+ 
+
+
+
+
+done
+a=`expr $a + 1` 
+fi
+ echo "$a" 
+then
+if [ $flag -ne 1 ]
+done
+fi
+  i=`expr $i + 1`  
+else
+  break
+   flag=1
+ then
+ if [ `expr $a % $i` -eq 0 ]
+do 
+while [ $i -le `expr $a / 2` ]
+flag=0
+i=2
+do
+while [ $a -le $b ]
+
+echo "PRIME NUMBER BETWEEN $a AND $b ARE"
+clear 
+fi
+ b=$temp
+ a=$b
+ temp=$a
+then
+if [ $a -ge $b ]
+
+ b=$2
+ a=$1
+fi 
+
+  echo "syntsax is $0 <no1> <no2>"
+then
+if [ $# -ne 2 ]
+# set  -vx
+
+ 
+#prime ornot
+
